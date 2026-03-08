@@ -1,0 +1,37 @@
+{
+  "component_struct_suffix": "View",
+  "component_name_map": {
+    "button/primary": "PrimaryButtonView",
+    "card/summary": "SummaryCardView"
+  },
+  "spacing_token_prefixes": [
+    "Spacing."
+  ],
+  "typography_token_prefixes": [
+    "Typography."
+  ],
+  "allowed_numeric_spacing_values": [
+    0
+  ],
+  "a11y_required_types": [
+    "Button",
+    "Toggle",
+    "TextField",
+    "SecureField",
+    "Image"
+  ],
+  "a11y_scan_window": 12,
+  "a11y_require_identifier_for_interactive": true,
+  "interactive_types": [
+    "Button",
+    "Toggle",
+    "TextField",
+    "SecureField"
+  ],
+  "pencil_token_to_swiftui_symbol": {
+    "spacing/100": "Spacing.xs",
+    "spacing/200": "Spacing.sm",
+    "typography/body/m": "Typography.bodyM",
+    "typography/title/l": "Typography.titleL"
+  }
+}

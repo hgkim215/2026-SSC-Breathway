@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pencil SwiftUI Rule Mapper"
+  short_description: "Enforce Pencil-to-SwiftUI design rule mapping"
+  default_prompt: "Use $pencil-swiftui-design-rule-mapper to enforce naming, spacing, typography, and accessibility mapping from Pencil tokens/components into SwiftUI code."

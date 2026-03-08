@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "sit_to_stand_bg.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

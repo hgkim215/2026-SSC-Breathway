@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "e852d4567f06e63a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e919fbe2a1e100a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7fff3010734c10f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/SSC_CHECKLIST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SSC_CHECKLIST"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "991f73f4565b40a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "53a941b1ac550b43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "397403259ac0d60f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "cf109e1dd42266ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "438b1038d7a5ece1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d509682345627248",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2e871673a058ae2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ff91f11873e1768",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/breathway_design_spec.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "breathway_design_spec 의 백링크"
+            }
+          },
+          {
+            "id": "e3edcbd9bc909850",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/breathway_design_spec.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "breathway_design_spec 의 나가는 링크"
+            }
+          },
+          {
+            "id": "00bb72584b570107",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "ca5d4ff7560021d4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "c36c6929a9aac05b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/breathway_design_spec.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "breathway_design_spec 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "a7fff3010734c10f",
+  "lastOpenFiles": [
+    "Breathway.swiftpm/Features/Result/ProgressPlaceholderView~.swift",
+    "Breathway.swiftpm/Features/Result/ProgressPlaceholderView.swift",
+    "Breathway.swiftpm/Features/Progress/ProgressViewModel.swift",
+    "Breathway.swiftpm/Features/Progress/ProgressStore.swift",
+    "Breathway.swiftpm/Features/Progress/ProgressModels.swift",
+    "Breathway.swiftpm/Features/Progress",
+    "Breathway.swiftpm/Shared/BackgroundMusicPlayer.swift",
+    "Breathway.swiftpm/Resources/music/main_bgm.mp3",
+    "Breathway.swiftpm/Resources/music",
+    "Breathway.swiftpm/Features/Move/QuickSitToStandReminderSheetView.swift",
+    "music/default_bgm.wav",
+    "Breathway.swiftpm/Resources/Assets.xcassets/AppIcon.appiconset/152.png",
+    "Breathway.swiftpm/Resources/Assets.xcassets/AppIcon.appiconset/88.png",
+    "Breathway.swiftpm/Resources/Assets.xcassets/AppIcon.appiconset/20.png",
+    "Breathway.swiftpm/Resources/Assets.xcassets/AppIcon.appiconset/100.png",
+    "Breathway.swiftpm/Resources/Assets.xcassets/AppIcon.appiconset/80.png",
+    "Breathway.swiftpm/Resources/Assets.xcassets/AppIcon.appiconset/16.png",
+    "Breathway.swiftpm/Resources/Assets.xcassets/AppIcon.appiconset/58.png",
+    "Breathway.swiftpm/Resources/Assets.xcassets/AppIcon.appiconset/50.png",
+    "Breathway.swiftpm/Resources/Assets.xcassets/AppIcon.appiconset/512.png",
+    "Breathway.swiftpm/Resources/Assets.xcassets/AppIcon.appiconset/92.png",
+    "docs/past/breathway_design_spec.md",
+    "docs/SSC_CHECKLIST.md",
+    "docs/SSC_Breathway_PRD.md",
+    "docs/SSC_Breathway_LOGIC.md",
+    "docs/SSC_Breathway_LOGIC_CHECKLIST.md",
+    "docs/swift_student_challenge_analysis.md",
+    "docs/past/swift_student_challenge_analysis.md",
+    "docs/past/ssc_breath_service_prd.md",
+    "docs/breathway_design_spec.md",
+    "docs/ssc_breath_service_prd.md"
+  ]
+}
